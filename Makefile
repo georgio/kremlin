@@ -1,5 +1,5 @@
 # make src/Ast.processed.ml
-include $(shell make pin)/Makefile.preprocess
+
 
 .PHONY: all minimal clean test
 
